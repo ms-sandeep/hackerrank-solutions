@@ -1,11 +1,12 @@
 # ──────────────────────────────────────────────────
+# Link        https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true
 # Problem     Simple Array Sum
 # Difficulty  Easy
 # Subdomain   Warmup
 # Platform    HackerRank
 # Language    python3
 # Status      Accepted
-# Submitted   2026-06-22, 12:39 p.m.
+# Submitted   2026-07-18, 11:57 a.m.
 # ──────────────────────────────────────────────────
 
 #!/bin/python3
